@@ -21,3 +21,4 @@ def check_price():
     conv_price = float(price[1:])
     print(conv_price)
 
+check_price()
